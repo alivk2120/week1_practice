@@ -1,0 +1,21 @@
+2. Write an algorithm to read employee salary and 3 shopping bills. 
+     ---> find total shooping amount
+     --> how much % of amount employee spend on shopping on his/her salary.
+ 
+   input: Salary:  100000
+   bill1:   24000
+   bill2:   6000
+   bill3:   20000
+ 
+    ouput: 
+           total shopping amount: 50000
+           percent :  50%
+algorithm
+
+step 1: Read salary                                   
+step 2: Read first bill                               
+step 3: read second bill                           
+step 4 :read third bill
+step 5 :add first second and third bill and store in total variable
+step 6 :percentage=(total bill*100)/salary
+step 7 : display percentage
