@@ -1,0 +1,14 @@
+step 1: read internal marks
+step 2: read external marks
+step 3: read project marks
+step 4: check if internal marks greater than 50 and external marks greater than 50 and project marks greater than 50
+step 5: project score=(project marks*70)/100
+step 6: external score=(external marks*20)/100
+step 7: internal score = (internal marks*10)/100
+step 8: add project score, external score and internal score and store in total
+step 9: if total is greater than 90
+step 10: display grade A
+step 11: if total is greater than 70 and less than 90
+step 12: display grade B
+step 13: if total is gretaer than 50 and less than 70
+step 14: dispaly grade C
