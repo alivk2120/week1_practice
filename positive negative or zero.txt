@@ -1,0 +1,20 @@
+8. To accept a number and check it is +ve or -ve or Zero.
+
+begin
+number a
+print("enter a")
+input a
+
+if a==0
+{
+  print(a,"is zero")
+}
+else if a>0
+{
+print(a,"is positive")
+}
+else
+{
+print(a,"is negative")
+}
+end

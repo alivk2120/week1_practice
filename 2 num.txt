@@ -1,0 +1,17 @@
+2. to accept two numbers and find addition, substraction, divison and multiplication
+
+begin
+number a,b,sum,mul,div,sub
+print("enter a")
+input a
+print("enter b")
+input b
+sum=a+b
+mul=a*b
+div=a/b
+sub=a-b
+print("addition of two numbers:",sum)
+print("subtraction of two numbers:",sub)
+print("division of two numbers:",div)
+print("multiplication of two numbers:", mul)
+end

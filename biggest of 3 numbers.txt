@@ -1,0 +1,23 @@
+6. To accept a Three numbers and print big number
+
+begin
+number a,b,c
+print("enter a")
+input a
+print("enter b")
+input b
+print("enter c")
+input c
+if a>b &&  a>c
+{
+  print(a,"is bigger")
+}
+else if b>c
+{
+print(b,"is bigger")
+}
+else
+{
+print(c,"is bigger")
+}
+end

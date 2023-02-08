@@ -1,0 +1,17 @@
+5. To accept a two numbers and print big number
+
+begin
+number a,b
+print("enter a")
+input a
+print("enter b")
+input b
+if a>b
+{
+  print(a,"is bigger")
+}
+else
+{
+print(b,"is bigger")
+}
+end

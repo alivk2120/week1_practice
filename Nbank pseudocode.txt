@@ -1,0 +1,22 @@
+begin
+number a,x,y,z,b,c
+print("enter the amount ")
+input a
+if a%100==0
+{
+  x=a/500
+  b=a%500
+  y=b/200
+  c=b%200
+  z=c/100
+
+print(x,"500 notes")
+print(y,"200 notes")
+print(z,"100 notes")
+}
+else
+{
+print("Invalid amount")
+}
+
+end
