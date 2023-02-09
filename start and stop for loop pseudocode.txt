@@ -1,0 +1,23 @@
+Draw a flow chart to accept start and stop values and print between values
+
+begin
+number start, stop,i
+print("enter start")
+input start
+print("enter stop")
+input stop
+if start<stop
+{
+ for(i=start;i<stop;i++)
+  {
+   print(i)
+  }
+}
+else
+{
+  for(i=start;start>stop;start--)
+  {
+   print(start)
+  }
+}
+end

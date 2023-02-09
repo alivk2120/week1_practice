@@ -1,0 +1,13 @@
+Write a program to accept a number and print table for it.
+
+begin 
+number num,n=1,a
+print("enter the number")
+input num
+while i<=10
+{
+ a=num*i
+ print(num * i = a)
+ i=i+1
+}
+end

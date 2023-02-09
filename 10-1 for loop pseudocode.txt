@@ -1,0 +1,10 @@
+2. Draw a flow chart to print 10-1 numbers using for loop
+
+Begin
+   number i=1;
+  for(i=10;i>=1;i--)                            
+  {
+        print(i)
+  }  
+ 
+end

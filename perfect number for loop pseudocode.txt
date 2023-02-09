@@ -1,0 +1,22 @@
+Write a program to accept a number and check it is perfect number or not
+
+begin
+number num, i=1, sum=0
+print("enter a number")
+input num
+for(i=1;i<num;i++)
+{​​
+ if(num%i==0)
+ {​​
+  sum=sum+i
+ }​​
+}
+if(sum==num)
+{
+print(num,"is a perfect number")
+}
+else
+{
+print(num,"is not a perfect number")
+}​​
+end

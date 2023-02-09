@@ -1,0 +1,12 @@
+Write a program to accept a number and print table for it.
+
+begin 
+number num,n=1,a
+print("enter the number")
+input num
+for(i=1;i<=10;i++)
+{
+ a=num*i
+ print(num," * ",i," =" ,a)
+}
+end

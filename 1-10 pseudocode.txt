@@ -1,0 +1,11 @@
+ 1.Draw a flow chart to print 1-10 numbers using for loop
+
+Begin
+   number i=1;
+  while i<=10              
+  {
+        print(i)
+        i=i+1
+  }  
+ 
+end

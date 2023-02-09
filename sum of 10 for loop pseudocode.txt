@@ -1,0 +1,11 @@
+ Draw a flow chart to print sum of first 10 numbers
+
+begin
+number num=1,n=0
+for(num=1;num<=10;num++)
+{
+ n=num+n
+ num=num+1
+}
+print(n)
+end
